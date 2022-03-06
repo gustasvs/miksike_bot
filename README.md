@@ -3,7 +3,7 @@
   <h1 align="center">Miksike AI</h1>
 </div>
 <div align="center">
-  <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this for me using <em>Python</em> and <em>selenium</em>.<br>[example video](https://youtu.be/LEXkhtqBEDg)</h3>
+  <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this for me using <em>Python</em> and <em>selenium</em>.<br> <a href="https://youtu.be/LEXkhtqBEDg">example video</a></h3>
 </div>
 
 ### Prerequisites
