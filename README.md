@@ -15,7 +15,7 @@ What you will need to run this application
   ```
  * python 3.6
   ```sh
-  python.org
+  https://www.python.org/downloads/
   ```
   * selenium for python
   ```sh
