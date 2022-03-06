@@ -3,7 +3,7 @@
   <h1 align="center">Miksike AI</h1>
 </div>
 <div align="center">
-  <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this for me using <em>Python</em> and <strong>selenium</strong>.</h3>
+  <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this for me using <em>Python</em> and <em>selenium</em>.</h3>
 </div>
 
 ### Prerequisites
@@ -36,6 +36,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * Email - gustasvsofficial@gmail.com
 * Twitter - [@gustasvs](https://twitter.com/gustasvs)
-* Youtube - [gustasvs](https://www.youtube.com/gustasvs)
+* Youtube - [youtube.com/gustasvs](https://www.youtube.com/gustasvs)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
