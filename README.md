@@ -3,10 +3,11 @@
   <h1 align="center">Miksike AI</h1>
 </div>
 <div align="center">
-  <h5 align="left">Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this in my place using <em>Python</em> and selenium.</h5>
+  <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this in my place using <em>Python</em> and selenium.</h3>
 </div>
-<!-- GETTING STARTED -->
+
 ### Prerequisites
+
 What you will need to run this application
 * chrome driver
   ```sh
@@ -20,18 +21,17 @@ What you will need to run this application
   ```sh
   https://pypi.org/project/selenium/
   ```
-  
-<!-- HOW TO USE -->
+
 ## Usage
+
 * Install the prerequisites
 * Edit settings.py (your user name, password, and desired mode to play in)
 * Run main.py 
-<!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<!-- CONTACT ME -->
 ## Contact
 
 * Email - gustasvsofficial@gmail.com
