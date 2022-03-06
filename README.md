@@ -32,7 +32,7 @@ What you will need to run this application
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Contact
+## Contact me
 
 * Email - gustasvsofficial@gmail.com
 * Twitter - [@gustasvs](https://twitter.com/gustasvs)
