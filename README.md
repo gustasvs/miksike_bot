@@ -1,8 +1,10 @@
 <!-- Title -->
 <div align="center">
-  <h1 align="center">Miksike is a website, where you do mental training in math, but I made a bot</h1>
+  <h1 align="center">Miksike AI</h1>
 </div>
-
+<div align="center">
+  <h5 align="left">Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this in my place using <em>Python</em> and selenium.</h5>
+</div>
 <!-- GETTING STARTED -->
 ### Prerequisites
 What you will need to run this application
