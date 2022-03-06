@@ -9,18 +9,18 @@
 ### Prerequisites
 
 What you will need to run this application
-* chrome driver
-  ```sh
-  https://chromedriver.chromium.org/downloads
-  ```
+ * chrome driver
+ ```sh
+ https://chromedriver.chromium.org/downloads
+ ```
  * python 3.6
-  ```sh
-  https://www.python.org/downloads/
-  ```
-  * selenium for python
-  ```sh
-  https://pypi.org/project/selenium/
-  ```
+ ```sh
+ https://www.python.org/downloads/
+ ```
+ * selenium for python
+ ```sh
+ https://pypi.org/project/selenium/
+ ```
 
 ## Usage
 
