@@ -6,7 +6,7 @@
   <h3>Miksike is a website, where you do mental training in math and compete with other people,<br> but I made a bot who does this for me using <em>Python</em> and <em>selenium</em>.<br> You can see a demo in <a href="https://youtu.be/LEXkhtqBEDg">this video</a></h3>
 </div>
 
-### Prerequisites
+## Prerequisites
 
 What you will need to run this application
  * chrome driver
